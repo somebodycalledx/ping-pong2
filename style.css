@@ -1,0 +1,14 @@
+body
+{
+   color: whitesmoke;
+   text-align: center;
+}
+
+#instruction_button {
+    text-align: right;
+}
+
+canvas {
+    background-color: white;
+    
+}
